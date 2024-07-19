@@ -1,5 +1,4 @@
 # Sentimentanalysis
-# Sentiment Analysis for Facial Expression Prediction
 
 ## Project Overview
 
